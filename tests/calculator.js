@@ -21,7 +21,7 @@ describe('semo calculator tests', function () {
 
         homepage.verifyResult('9');
 
-        browser.sleep(2000);
+        browser.sleep(3000);
 
     });
 
